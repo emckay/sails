@@ -1,7 +1,7 @@
 {
   "name": "sails",
   "author": "Mike McNeil <@mikermcneil>",
-  "version": "0.12.8",
+  "version": "0.12.8.1",
   "description": "API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io)",
   "homepage": "http://sailsjs.org",
   "keywords": [
@@ -116,7 +116,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/balderdashy/sails.git"
+    "url": "git://github.com/emckay/sails.git"
   },
   "license": "MIT",
   "bugs": {
